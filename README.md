@@ -1,16 +1,2 @@
 ## Docker
-_______________________________________
-/ This is vagrant environment ready for \
-\ docker trainings.                     /
----------------------------------------
-   \
-    \
-     \
-                   ##        .
-             ## ## ##       ==
-          ## ## ## ##      ===
-      /""""""""""""""""___/ ===
- ~~~ {~~ ~~~~ ~~~ ~~~~ ~~ ~ /  ===- ~~~
-      \______ o          __/
-       \    \        __/
-         \____\______/
+This is vagrant environment ready for docker trainings.
