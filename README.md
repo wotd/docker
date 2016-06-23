@@ -14,3 +14,10 @@ To run it:
 ```
 docker run -d -p 80:80 webserver
 ```
+
+## hubot
+This is simple image that contains installation of hubot (chat bot)
+
+```
+docker run --user=spok -it wotd/hubot /hubot.sh
+```
