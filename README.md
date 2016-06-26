@@ -19,5 +19,7 @@ To run it:
 This is simple image that contains installation of hubot (chat bot)
 
 ```
-docker run --user=spok -it wotd/hubot /hubot.sh
+docker run -d wotd/hubot 
 ```
+
+You can build your own hubot using Dockerfile. Use own Slack Token
