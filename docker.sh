@@ -1,4 +1,4 @@
 #!/bin/bash
 
-apt-get update
-apt-get install -y docker.io tree
+wget -qO- https://get.docker.com/ | sh
+
